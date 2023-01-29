@@ -1,0 +1,6 @@
+docker exec -it postgres psql -U postgres -W =(Open postgresql)
+    # 12345 (user passwod)
+docker exec -it redis redis-cli =(Open redis)
+    > keys* , get"key" =(to chek the value == time)
+
+

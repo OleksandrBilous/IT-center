@@ -1,0 +1,90 @@
+.page{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.text{
+    font-size: 26px;
+    width: 40%;
+}
+
+.logo{
+    font-size: 56px;
+    font-weight: 200;
+}
+
+
+.main{
+    position: absolute;
+    top: 30%; left: 10%;    
+}
+
+
+
+
+.main_button {
+  background-color: #bc960c;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  margin: 4px 2px;
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  right: 10%;
+}
+
+.foot{
+    background-color: rgb(43, 43, 43);
+    margin-top: auto;
+    height: 7vh;
+}
+
+.first{
+    color: white;
+    position: absolute;
+    top: 95%;
+    left: 1%;
+}
+
+.second{
+    color: white;
+    position: absolute;
+    top: 95%;
+    left: 40%;
+}
+
+.third{
+    color: white;
+    position: absolute;
+    top: 95%;
+    left: 80%;
+}
+
+.logining{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
+
+.reg{
+    position: absolute;
+  top: 37%;
+  right: 15%;
+}
+
+.thx{
+    position: absolute;
+    top: 35%; left: 10%;
+}
+
+.you{
+    position: absolute;
+    top: 45%; left: 10%;
+}
