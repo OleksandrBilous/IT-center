@@ -9,6 +9,7 @@ In the application, you can view and select the IT services you are interested i
 - Redis
 - CouchDB
 - Docker
+- API
 - HTML/CSS 
 #
 The project contains 3 different databases, each of which performs its own task.
