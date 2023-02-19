@@ -62,5 +62,3 @@ Each object looks like this.
 
 The main objective of this project was to use docker to connect all the components of the program in practice.
 Creation of registration and login with automatic addition of data to the SQL database. As well as sharing multiple databases in a single project.
-
-
